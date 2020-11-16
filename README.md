@@ -1,1 +1,2 @@
-This is a README for trapegde project.
+This is a README for trapedge project.
+This is a springboot application.
